@@ -18,5 +18,4 @@ int main()
 
     cout << "Product of digits = " << product;
 
-    return 0;
 }
