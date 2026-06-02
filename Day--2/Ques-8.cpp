@@ -24,6 +24,5 @@ int main()
     else
         cout<<"Entered number is Not a Palindrome Number";
 
-        return 0;
 
 }
